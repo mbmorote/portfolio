@@ -77,21 +77,6 @@ An xUnit test project is included and configured from project generation. The in
 
 ---
 
-## Why Each Component Exists
-
-Every pattern in the template traces directly to a gap found in PMFlow:
-
-| PMFlow Gap | Template Solution |
-|---|---|
-| No validation framework — inline if-checks only | FluentValidation as MediatR pipeline behavior, auto-discovered |
-| Domain entities exposed directly from endpoints | AutoMapper + DTOs; API surface decoupled from schema |
-| Inconsistent error handling — exceptions reaching client | Result\<T\> pattern throughout; no raw exceptions at the API boundary |
-| Minimal test coverage — hard to add tests later | xUnit project + in-memory EF Core configured from day one |
-| Manual DI wiring per entity | Reflection-based auto-discovery via `IEntity` interface |
-| No generic service layer | `ServiceBase<T, TDto>` + `ICRUDService<T, TDto>` pre-wired |
-
----
-
 ## Patterns Used
 
 - **Clean Architecture (6-project)** — unidirectional dependencies enforced by project references

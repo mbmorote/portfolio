@@ -1,4 +1,10 @@
-# Projects
+# Portfolio 
+**Backend Developer · C# / .NET · 15+ years**
+
+A curated collection of my professional and personal engineering work.  
+This repository serves as the entry point to my projects, templates, and tooling.
+
+## Projects
 
 | Project | Type | Stack | Git |
 |---|---|---|---|

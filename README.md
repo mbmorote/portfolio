@@ -1,18 +1,4 @@
-# Portfolio — Marco Morote
-
-Backend Developer · C# / .NET · 10+ years
-
----
-
-Brazilian backend developer living in Canada. Building clean, maintainable, business-aligned systems.
-
-My strength is connecting technical decisions to real business needs. I delivered a full production-tracking platform end-to-end — architecture, backend, database, and frontend — for a real manufacturing client, solo. That experience shaped how I design systems: with clear layers, explicit business rules, and an honest view of what the code still needs.
-
-**Stack:** C# / .NET · ASP.NET Core Minimal APIs · Entity Framework Core · SQL Server · PostgreSQL · Clean Architecture · CQRS (MediatR) · Docker · GitHub Actions
-
----
-
-## Projects
+# Projects
 
 | Project | Type | Stack | Git |
 |---|---|---|---|

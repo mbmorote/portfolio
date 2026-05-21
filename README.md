@@ -14,11 +14,11 @@ My strength is connecting technical decisions to real business needs. I delivere
 
 ## Projects
 
-| Project | Type | Stack |
-|---|---|---|
-| [PMFlow](projects/pmflow.md) | Production system — deployed in active manufacturing facility | .NET 7 · EF Core · SQL Server · React / Next.js |
-| [.NET Clean Architecture Template](projects/template.md) | Developer tooling — VS 2022 project template | .NET 9 · MediatR · AutoMapper · FluentValidation · xUnit |
-| [Profile Dashboard](projects/dashboard.md) | Personal tooling — Markdown-driven dashboard app | Node.js · Express · Vanilla JS |
+| Project | Type | Stack | Git |
+|---|---|---|---|
+| [PMFlow](projects/pmflow.md) | Production system — deployed in active manufacturing facility | .NET 7 · EF Core · SQL Server · React / Next.js | Private |
+| [.NET Clean Architecture Template](projects/template.md) | Developer tooling — VS 2022 project template | .NET 9 · MediatR · AutoMapper · FluentValidation · xUnit | Coming soon |
+| [Profile Dashboard](projects/dashboard.md) | Personal tooling — Markdown-driven dashboard app | Node.js · Express · Vanilla JS | Coming soon |
 
 ---
 
